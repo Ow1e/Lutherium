@@ -11,12 +11,12 @@ setuptools.setup(
  
     author_email="ow1e3@protonmail.com",
  
-    description="Backbones of AIRSupport3",
+    description="Example",
 
     long_description="NOTE: This is in beta and there is still allot of work to do with this project.",
     long_description_content_type="text/markdown",
  
-    url="https://github.com/FRC6854",
+    url="",
     
     packages=["lutherium"],
  
