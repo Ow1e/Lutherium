@@ -1,5 +1,5 @@
 # Lutherium
-NOTE: This a tool box project used by AIRSupport3. AIRSupport3 is a closed source project but Lutherium is not.
+NOTE: THIS IS JUST A EXAMPLE AND IS NOT FOR PRODUCTION
 
 A way to create decentralized applications and databases using **Genesis Nodes** as a host dealer. I recommend using RSA to ensure your netwprl data is not tampered if it is open. If you want a closed system use a firewall and only allow your Nodes.
 ## Network Syncing
